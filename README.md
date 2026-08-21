@@ -40,4 +40,4 @@ Yes — it's free to download and use.
 
 ## System Requirements
 - Works on Windows
-- ~100 MB free space   
+- ~100 MB free space    
